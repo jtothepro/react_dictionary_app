@@ -5,6 +5,17 @@
   text-align: center;
 }
 
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f9f8fe;
+}
+
+a {
+  color: #ef609a;
+  text-decoration: none;
+}
+
 .Footer {
   margin-top: 50px;
   font-size: 14px;

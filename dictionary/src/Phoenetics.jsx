@@ -1,3 +1,5 @@
+import "./Phoenetics.css";
+
 export default function Phoenetics(props) {
   return (
     <div className="Phoenetics">

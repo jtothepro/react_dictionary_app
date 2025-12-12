@@ -1,3 +1,5 @@
+import "./Synonyms.css";
+
 export default function Synonyms(props) {
   const synonyms = props.synonyms;
 

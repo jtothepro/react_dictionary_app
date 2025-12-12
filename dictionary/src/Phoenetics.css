@@ -1,0 +1,16 @@
+.Phoenetics {
+  height: 50px;
+}
+
+.Phoenetics a {
+  border: 1px solid #ddd;
+  text-decoration: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  margin-left: 10px;
+}
+
+.Phoenetics a:hover {
+  background-color: purple;
+  color: white;
+}
