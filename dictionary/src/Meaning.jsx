@@ -4,7 +4,6 @@ import "./Meaning.css";
 export default function Meaning(props) {
   const meaning = props.meaning;
 
-  console.log(props.meaning);
   return (
     <div className="Meaning">
       <h3>{props.meaning.partOfSpeech}</h3>

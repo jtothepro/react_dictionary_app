@@ -1,5 +1,10 @@
 {
   "dependencies": {
-    "axios": "^1.13.2"
+    "@popperjs/core": "^2.11.8",
+    "axios": "^1.13.2",
+    "bootstrap": "^5.3.8"
+  },
+  "devDependencies": {
+    "sass": "^1.96.0"
   }
 }
